@@ -7,8 +7,8 @@ in subsequent sessions, and that would be a good place to further expand your so
 
 ## Getting started
 - Ad Signal uses Rails 6, so we want you to use that.
-- We use the Latest Ruby 2, but are happy for you to use 3.
-- Use a SQLite DB
+- We use Ruby 2.7, but are happy for you to use 3.
+- Use a PostgreSQL DB
 - Make sure you include a README with your code explaining how we setup and run your solution
 
 

@@ -41,14 +41,14 @@ its teams and contacts.
 - [ ] Organisation new form must have a cancel button that takes the user back to the organisation index page. This
   button must first give the user an alert confirmation saying, "Are you sure you want to quit? you will lose all your
   form data" before redirecting the user.
-- [ ] organisation edit form similar to the new form will have the same capabilities, but instead of creating a new
+- [ ] Organisation edit form similar to the new form will have the same capabilities, but instead of creating a new
   organisation, it updates it and redirects to organisation show page.
 - [ ] Organisation show page must include the name of the organisation and a list/table of all teams within that
   organisation sorted by team name.
 - [ ] The list/table of teams must include a column for name, number of contacts in the team and columns for
   options/links to show and edit team.
 - [ ] Organisation show must have a button/link to navigate to create a new team within that organisation.
-  [ ] Team new form must have an input box for name followed by a submit button, creating the team.
+- [ ] Team new form must have an input box for name followed by a submit button, creating the team.
 - [ ] Team new form must have a cancel button that takes the user back to the organisation show page. This button must
   first give the user an alert confirmation saying, "Are you sure you want to quit? you will lose all your form data "
   before redirecting the user.
@@ -64,19 +64,18 @@ its teams and contacts.
 - [ ] Contact new form must have a cancel button which takes the user back to the team show page - this button must
   first give the user an alert confirmation saying, "Are you sure you want to quit? you will lose all your form data"
   before redirecting the user.
-- [ ] Contact edit form similar to the new form will have the same capabilities, but instead of creating a new team, it
+- [ ] Contact edit form similar to the new form will have the same capabilities, but instead of creating a new contant, it
   updates it and navigates to the team show page.
 - [ ] Contact show page must include the full name of the contact and email.
 - [ ] All pages must be reasonably designed (we love bootstrap but feel free to use any CSS framework you're comfortable
   with or go vanilla CSS) - imagine it's a website you will present to a client.
 - [ ] All forms must consider any validations on the model/entity and display them appropriately.
-- [ ] We expect tests for all of this. (We'd love to see feature tests on top of any unit tests)
+- [ ] We expect tests for all of this. (We'd love to see feature tests on top of any unit tests).
 
 ### Bonus
 
-- [ ] On the contact show page, there must be a link next to the email, which, if clicked, copies the email into the
-  clipboard so a user can paste it into another app.
-  [ ] improve the user experience by adding a global navigation bar and identifying where we could add any buttons or
+- [ ] On the contact show page, there must be a link next to the email, which, if clicked, copies the email into the clipboard so a user can paste it into another app.
+- [ ] Improve the user experience by adding a global navigation bar and identifying where we could add any buttons or
   links (such as back buttons or breadcrumbs) to help the user navigate the application.
 - [ ] Add a Docker and compose file that allows a user to run the application inside a containerised environment
-- [ ] Add a Helm file that would allow the application to be run on a Kubernetes cluster
+- [ ] Add a Helm file that would allow the application to be run on a Kubernetes cluster.
