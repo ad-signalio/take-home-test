@@ -75,8 +75,8 @@ its teams and contacts.
 ### Bonus
 
 - [ ] On the contact show page, there must be a link next to the email, which, if clicked, copies the email into the
-  clipboard so a user can paste it into another app.
-  [ ] improve the user experience by adding a global navigation bar and identifying where we could add any buttons or
+  clipboard so a user can paste it into another app.  
+- [ ] improve the user experience by adding a global navigation bar and identifying where we could add any buttons or
   links (such as back buttons or breadcrumbs) to help the user navigate the application.
 - [ ] Add a Docker and compose file that allows a user to run the application inside a containerised environment
 - [ ] Add a Helm file that would allow the application to be run on a Kubernetes cluster
