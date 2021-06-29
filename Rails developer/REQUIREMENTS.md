@@ -64,7 +64,7 @@ its teams and contacts.
 - [ ] Contact new form must have a cancel button which takes the user back to the team show page - this button must
   first give the user an alert confirmation saying, "Are you sure you want to quit? you will lose all your form data"
   before redirecting the user.
-- [ ] Contact edit form similar to the new form will have the same capabilities, but instead of creating a new contant, it
+- [ ] Contact edit form similar to the new form will have the same capabilities, but instead of creating a new contact, it
   updates it and navigates to the team show page.
 - [ ] Contact show page must include the full name of the contact and email.
 - [ ] All pages must be reasonably designed (we love bootstrap but feel free to use any CSS framework you're comfortable
